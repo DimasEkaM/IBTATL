@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Guestbook ATL</string>
+    <string name="action_settings">Backup Excel </string>
+    <string name="action_sales">Sales Setting</string>
+</resources>
