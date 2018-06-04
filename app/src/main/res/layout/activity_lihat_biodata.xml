@@ -99,6 +99,7 @@
         android:layout_below="@+id/textView10"
         android:layout_marginTop="20dp"
         android:text="TextView" />
+
     <TextView
         android:id="@+id/TextView05"
         android:layout_width="wrap_content"
@@ -151,7 +152,8 @@
         android:layout_alignBaseline="@+id/textView6"
         android:layout_alignBottom="@+id/textView6"
         android:layout_alignLeft="@+id/TextView05"
-        android:text="Sales" />
+        android:text="Produk" />
+
     <TextView
         android:id="@+id/TextView07"
         android:layout_width="wrap_content"
@@ -159,7 +161,8 @@
         android:layout_alignBaseline="@+id/textView7"
         android:layout_alignBottom="@+id/textView7"
         android:layout_alignLeft="@+id/TextView06"
-        android:text="Photo" />
+        android:text="Sales" />
+
     <TextView
         android:id="@+id/TextView08"
         android:layout_width="wrap_content"
@@ -167,7 +170,8 @@
         android:layout_alignBaseline="@+id/textView8"
         android:layout_alignBottom="@+id/textView8"
         android:layout_alignLeft="@+id/TextView07"
-        android:text="Notes" />
+        android:text="Foto" />
+
     <TextView
         android:id="@+id/TextView09"
         android:layout_width="wrap_content"
@@ -175,7 +179,7 @@
         android:layout_alignBaseline="@+id/textView9"
         android:layout_alignBottom="@+id/textView9"
         android:layout_alignLeft="@+id/TextView08"
-        android:text="Status" />
+        android:text="Notes" />
     <TextView
         android:id="@+id/TextView10"
         android:layout_width="wrap_content"
@@ -184,6 +188,7 @@
         android:layout_alignBottom="@+id/textView10"
         android:layout_alignLeft="@+id/TextView09"
         android:text="Tanggal" />
+
     <TextView
         android:id="@+id/TextView11"
         android:layout_width="wrap_content"
@@ -191,7 +196,7 @@
         android:layout_alignBaseline="@+id/textView11"
         android:layout_alignBottom="@+id/textView11"
         android:layout_alignLeft="@+id/TextView10"
-        android:text="Produk" />
+        android:text="Status" />
 
     <Button
         android:id="@+id/button1"
